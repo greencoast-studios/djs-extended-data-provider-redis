@@ -1,0 +1,10 @@
+.idea
+src
+.github
+__mocks__
+test
+docs
+assets
+.eslintrc
+.eslintignore
+jest.config.js
