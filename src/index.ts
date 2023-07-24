@@ -1,0 +1,1 @@
+export { RedisDataProvider } from './RedisDataProvider';
